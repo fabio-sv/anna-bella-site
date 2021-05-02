@@ -1,0 +1,62 @@
+.capa{
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+.background{
+	background: url('imagens/fundo.png');
+}
+
+.menu{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.textMenu{
+	font-family: Arial black, sans-serif;
+	color: #36454f;
+	font-weight: 700px;
+
+}
+.contato{
+	border: 1px 100px, 100px solid;
+	font-family: arial;
+	background-color: white;
+}
+a{
+	text-decoration: none;
+}
+
+h3{
+	color: gray;
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+}
+p{
+	font-weight:bolder;
+	font-size: 14px;
+}
+.texto{
+	font-family: sans-serif;
+	font-weight: 600px;
+	background-color: #f8f8ff;
+	border: 10px solid #f8f8ff;
+	margin-right: 430px	
+}
+.imagen2{
+	border: 10px solid #c0c0c0;
+}
+.rodape{
+	font-size: 15px;
+	font-weight: bold;
+	font-family: sans-serif;
+	border: 0px solid;
+	margin-top: 15px;
+	margin-right: 430px;
+	text-align: center;
+}
+
+
+		
