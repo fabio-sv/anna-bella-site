@@ -1,1 +1,1 @@
-Visite o site clicando no link 👉 <a href="fabio-sv.github.io/anna-bella-site/">Anna Bella</a>
+Para visitar o site vá ate o campo "About" no canto superior direito e click o link.
