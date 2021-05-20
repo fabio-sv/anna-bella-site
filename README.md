@@ -8,5 +8,5 @@
 
 ![](https://github.com/fabio-sv/anna-bella-site/blob/main/imagens/banner-edit.png)  
 
- <a href="" style="hover: background = red, color = blue" >link</a>
+
 
