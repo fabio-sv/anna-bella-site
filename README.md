@@ -1,2 +1,2 @@
 ## Website Anna Bella Modelo
-![](http://i.imgur.com/IMTN5cy.png)  
+![](https://github.com/fabio-sv/anna-bella-site/blob/main/imagens/banner.png)  
